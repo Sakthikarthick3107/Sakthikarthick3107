@@ -5,7 +5,7 @@
 
 <p align="center">Welcome to my GitHub profile!</p>
 
-<h2 align="center">Skills & Tools</h2>
+<h2 align="center">Skills </h2>
 
 <p align="center">
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
