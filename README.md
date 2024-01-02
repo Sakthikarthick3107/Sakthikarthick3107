@@ -1,6 +1,27 @@
+<style>
+#typing-text {
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid #000;
+    margin: 0 auto;
+    letter-spacing: 4px;
+    animation: typing 1s steps(10, end), blink-caret 0.5s step-end infinite;
+  }
 
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
 
-<h1 align="center">Hello, I'm Sakthikarthick 👋</h1>
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #000; }
+  }
+</style>
+
+<h1 align="center">
+   <span id="typing-text">Hello, I'm Sakthikarthick👋</span>   
+</h1>
 
 <p align="center">Welcome to my GitHub profile!</p>
 
