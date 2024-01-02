@@ -1,3 +1,11 @@
+<style>
+  p>img {
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+</style>
+
 <h1 align="center">Hello, I'm Sakthikarthick 👋</h1>
 
 <p align="center">Welcome to my GitHub profile!</p>
