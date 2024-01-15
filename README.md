@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">Welcome to my GitHub profile!</p>
-<img src='https://i.pinimg.com/736x/4a/9e/b8/4a9eb8a1ac9f59199c039ced6786d825.jpg](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif' width='100%'  />
+<img src='https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif' width='100%'  />
 
 <h2 align="center">Skills </h2>
 
