@@ -5,7 +5,7 @@
 
 <p align="center">Welcome to my GitHub profile!</p>
 <div style='display:flex ; align-items:center;justify-content:center; width:'100%' >
-<img src='https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif' width='50%' height='25%'  />
+<img src='[https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fglowing-code-expressive-cyberpunk-tee-with-neon-background_58933677.htm&psig=AOvVaw35PKhM7rDUwejxG8BU7Ycn&ust=1706627841561000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj7z6bygoQDFQAAAAAdAAAAABAD)' width='50%' height='25%'  />
 </div>
 <h2 align="center">Skills </h2>
 
