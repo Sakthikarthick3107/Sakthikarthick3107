@@ -5,7 +5,6 @@
 
 <p align="center">Welcome to my GitHub profile!</p>
 
-<img style="position:relative;left:50%;top:50%" src='https://img.freepik.com/premium-vector/glowing-code-expressive-cyberpunk-tee-with-neon-background_978250-762.jpg' width='50%' height='20%'  />
 
 <h2 align="center">Skills </h2>
 
