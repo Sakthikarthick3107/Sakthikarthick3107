@@ -28,4 +28,5 @@
 </p>
 
 <h2 align="center" > Visit </h2>
-<a href='http://sakthikarthick3107.netlify.app/' align='center' >http://sakthikarthick3107.netlify.app/</a>
+<p align='center'> <a href='http://sakthikarthick3107.netlify.app/'  >http://sakthikarthick3107.netlify.app/</a></p>
+
