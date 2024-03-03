@@ -6,7 +6,17 @@
 <p align="center">Welcome to my GitHub profile!</p>
 
 
-<h2 align="center" > Skills </h2>
+
+
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakthikarthick3107&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakthikarthick3107&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br/>
+
+<h2 align="left" > Skills </h2>
 
 
 <div align="left">
@@ -36,14 +46,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakthikarthick3107&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakthikarthick3107&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br/>
 
 <h2 align="center" > Visit </h2>
 <p align='center'> <a href='http://sakthikarthick3107.netlify.app/'  >http://sakthikarthick3107.netlify.app/</a></p>
