@@ -1,10 +1,10 @@
 
 <h1 align="center">
-   Hello, I'm Sakthikarthick👋 . <a href='http://sakthikarthick3107.netlify.app/' target='_blank'>Checkout my portfolio</a>
+   Hello, I'm Sakthikarthick👋 . 
 </h1>
 
 <p align="center">Welcome to my GitHub profile!</p>
-
+<a href='http://sakthikarthick3107.netlify.app/' target='_blank'>Checkout my portfolio</a>
 
 
 ###
