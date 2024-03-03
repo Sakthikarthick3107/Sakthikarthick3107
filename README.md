@@ -47,7 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-![snake animation](https://Sakthikarthick3107.github.io/Sakthikarthick3107/snake.svg)
+<img src="https://raw.githubusercontent.com/Sakthikarthick3107/Sakthikarthick3107/output/snake.svg" alt="Snake animation" />
+
 
 
 
