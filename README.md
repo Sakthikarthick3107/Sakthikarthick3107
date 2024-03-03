@@ -5,7 +5,11 @@
 
 <p align="center">Welcome to my GitHub profile!</p>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sakthikarthick3107/count.svg?"  />
+</div>
 
+###
 
 
 <br/>
