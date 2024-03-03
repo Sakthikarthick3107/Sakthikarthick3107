@@ -1,6 +1,6 @@
 
 <h1 align="center">
-   Hello, I'm Sakthikarthick👋
+   Hello, I'm Sakthikarthick👋 . <a href='http://sakthikarthick3107.netlify.app/' target='_blank'>Checkout my portfolio</a>
 </h1>
 
 <p align="center">Welcome to my GitHub profile!</p>
@@ -73,5 +73,5 @@
 </div>
 
 
-<p align='center'> <a href='http://sakthikarthick3107.netlify.app/'  >http://sakthikarthick3107.netlify.app/</a></p>
+
 
