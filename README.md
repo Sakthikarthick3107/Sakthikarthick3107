@@ -21,10 +21,11 @@
 <img src="https://raw.githubusercontent.com/Sakthikarthick3107/Sakthikarthick3107/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Sakthikarthick3107" alt="Layout with last medium posts"  />
 </div>
 
-###
+
+
 
 <h2 align="left" > Skills </h2>
 
