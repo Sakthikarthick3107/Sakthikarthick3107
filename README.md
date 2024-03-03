@@ -47,7 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-![snake gif](https://github.com/Sakthikarthick3107/Sakthikarthick3107/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://Sakthikarthick3107.github.io/Sakthikarthick3107/snake.svg)
+
 
 
 <h2 align="center" > Visit </h2>
