@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">Welcome to my GitHub profile!</p>
-<a align="center" href='http://sakthikarthick3107.netlify.app/' target='_blank'>Checkout my portfolio</a>
+<p align="center" ><a href='http://sakthikarthick3107.netlify.app/' target='_blank'>Checkout my portfolio</a></p>
 
 
 ###
