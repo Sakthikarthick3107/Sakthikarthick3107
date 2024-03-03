@@ -47,6 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/Sakthikarthick3107/Sakthikarthick3107/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="center" > Visit </h2>
 <p align='center'> <a href='http://sakthikarthick3107.netlify.app/'  >http://sakthikarthick3107.netlify.app/</a></p>
 
