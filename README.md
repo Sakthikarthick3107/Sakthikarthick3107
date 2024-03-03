@@ -16,6 +16,8 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/Sakthikarthick3107/Sakthikarthick3107/output/snake.svg" alt="Snake animation" />
+
 <h2 align="left" > Skills </h2>
 
 
@@ -47,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Sakthikarthick3107/Sakthikarthick3107/output/snake.svg" alt="Snake animation" />
+
 
 
 
