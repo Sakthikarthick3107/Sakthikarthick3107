@@ -63,6 +63,16 @@
 
 
 
-<h2 align="center" > Visit </h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sakthikarthick-nagendran-5b5050229/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/__intelligent__psycho__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+
 <p align='center'> <a href='http://sakthikarthick3107.netlify.app/'  >http://sakthikarthick3107.netlify.app/</a></p>
 
